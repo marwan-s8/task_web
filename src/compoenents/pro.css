@@ -1,0 +1,20 @@
+.btn{
+    background-color: black !important;
+    border: 2px solid black !important;
+    color: white !important;
+    margin: 10px !important;
+    
+}
+.btn:hover{
+    background-color: blueviolet !important;
+    border: 2px solid blueviolet !important;
+}
+.card-img-top{
+
+    max-width: 70% !important;
+    max-height: 600px !important;
+    padding: auto 20px;
+}
+.card{
+    padding: 20px auto !important; 
+}
